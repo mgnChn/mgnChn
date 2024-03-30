@@ -3,6 +3,8 @@
 ### My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgnChn&theme=dark&background=000000)
 ![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnChn&show_icons=true&theme=transparent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgnChn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
