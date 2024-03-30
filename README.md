@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgnChn&theme=dark&background=000000)]
-(https://git.io/streak-stats)
-https://github-readme-stats.vercel.app/api?username=mgnChn&show_icons=true&theme=transparent
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgnChn&theme=dark&background=000000)
+![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnChn&show_icons=true&theme=transparent)
 
 
 <!--
