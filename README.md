@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=mgnChn
+https://github-readme-stats.vercel.app/api?username=mgnChn&show_icons=true&theme=transparent
+
+
 <!--
 **mgnChn/mgnChn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
